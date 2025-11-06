@@ -1,0 +1,28 @@
+# Carpeta de configuración de Visual Studio
+.vs/
+
+# Archivos temporales y de compilación
+bin/
+obj/
+
+# Archivos de usuario (no deben subirse)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas auxiliares de compilación o test
+TestResults/
+[Bb]uild/
+[Ll]og/
+
+# Configuraciones locales o IDE alternativos
+.vscode/
+.idea/
+
+# Paquetes descargados (NuGet, etc.)
+packages/
+
+# Otros archivos innecesarios
+*.swp
+*.tmp
